@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Designs a real premium anchor at 5-10x the main offer, presented first, that passes the gasp test.",
+  "keywords": [
+    "anchor",
+    "designer",
+    "kairos",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-anchor-designer",
+  "repository": "https://github.com/baselam88/kairos-anchor-designer-plugin",
+  "version": "0.1.0"
+}
